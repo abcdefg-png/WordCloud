@@ -8,7 +8,7 @@
 
 ## 兄弟们最关心的效果展示
 
-![to_lover22](\images\to_lover22.png)
+![to_lover22](https://github.com/abcdefg-png/WordCloud/tree/main/images/to_lover22.png)
 
 注：想做出云图来，需要你和另一半**有一定量的聊天记录**哦（yysy，情侣之间的聊天记录绰绰有余）
 
@@ -38,7 +38,7 @@ pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 
 首先打开消息管理
 
-![10](D:\pycharm\Wordcloud\images\10.jpg)
+![10](https://github.com/abcdefg-png/WordCloud/tree/main/images/10.jpg)
 
 之后右键选择导出消息记录，非常方便！
 
