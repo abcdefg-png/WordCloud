@@ -8,7 +8,7 @@
 
 ## 兄弟们最关心的效果展示
 
-![to_lover22](https://github.com/abcdefg-png/WordCloud/tree/main/images/to_lover22.png)
+![to_lover22](.\images\to_lover22.png)
 
 注：想做出云图来，需要你和另一半**有一定量的聊天记录**哦（yysy，情侣之间的聊天记录绰绰有余）
 
@@ -30,7 +30,7 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt  // 
 pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
-![8](\images\8.jpg)
+![8](.\images\8.jpg)
 
 ### 2.导出并读取QQ聊天记录文件
 
@@ -38,15 +38,15 @@ pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 
 首先打开消息管理
 
-![10](https://github.com/abcdefg-png/WordCloud/tree/main/images/10.jpg)
+![10](.\images\10.jpg)
 
 之后右键选择导出消息记录，非常方便！
 
-![11](\images\11.jpg)
+![11](.\images\11.jpg)
 
 最后选择文件格式，**一定要选txt**，bak加密过的打开是乱码
 
-![12](\images\12.jpg)
+![12](.\images\12.jpg)
 
 在代码的**第18行**，替换文件目录。
 
@@ -63,7 +63,7 @@ fn = open('聊天记录.txt', encoding="utf-8")  # 打开文件
 因为聊天记录每句话自带QQ备注，所以如果不去掉做出来的大概率会是彼此的QQ备注/昵称。
 ```
 
-![9](\images\9.jpg)
+![9](.\images\9.jpg)
 
 同样的道理，为了咱们的云图更能体现每对cp的特点，我把乱七八糟字符，常用语气词、助词也都去掉了，分别在代码的22行和29行，兄弟们根据需求自动修改呀！
 
