@@ -1,8 +1,7 @@
 #! /usr/bin/env python
 # -*- coding: UTF-8 -*-
 # @Time         : 2021/10/22 16:06
-# @Author       : yhr 2528104280@qq.com
-# @Site         : xhr1314.top
+# @Author       : yhr
 # @File         : WordCloud.py
 # @Software     : PyCharm
 
